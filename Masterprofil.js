@@ -32,6 +32,7 @@ var removeHalftoneInformation = "0";
 var SetPageLabelTo1 = "0";
 
 //here goes the Product Logic
+//dieser Teil sollte von extern kommen
 switch (_Product){
 	
     case "L01":
